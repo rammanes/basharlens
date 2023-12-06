@@ -721,6 +721,21 @@ h6 {
   transition: 0.3s;
 }
 
+.gallery-desc{
+  margin: 20px 0;
+}
+
+.gallery-desc h5{
+  font-size: 0.8em;
+}
+.gallery-desc p{
+  font-size: 0.6em;
+  color: grey;
+}
+
+
+
+
 .gallery .gallery-links {
   position: absolute;
   inset: 0;
