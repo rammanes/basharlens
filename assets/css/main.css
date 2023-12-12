@@ -64,6 +64,7 @@ h6 {
   padding-bottom: 40px;
 }
 
+
 .section-header h2 {
   font-size: 14px;
   font-weight: 500;
@@ -1277,4 +1278,16 @@ h6 {
 
 .footer .credits a {
   color: var(--color-primary);
+}
+
+.portrait{
+  margin: 3% 5%;
+}
+
+.portrait img{ 
+  width: 100%;
+}
+
+.landscape img{ 
+  width: 100%;
 }
